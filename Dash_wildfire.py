@@ -1,6 +1,6 @@
 '''
 Ojectives:
-Create a dashboard layout with a Radiol]Item (dcc.RaioItems) and a Dropdown
+Create a dashboard layout with a RadioItem (dcc.RaioItems) and a Dropdown
 Add Pie Chart and Bar chart
 '''
 
